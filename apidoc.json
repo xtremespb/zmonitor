@@ -1,0 +1,14 @@
+{
+  "name": "zmonitor",
+  "version": "1.0.0",
+  "description": "zMonitor API Documentation",
+  "title": "zMonitor API",
+  "url" : "",
+  "header": {
+    "title": "zMonitor API Documentation"
+  },
+  "template": {
+  	"withCompare": false,
+  	"withGenerator": false
+  }
+}
